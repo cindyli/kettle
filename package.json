@@ -28,7 +28,6 @@
     "devDependencies": {
         "fluid-grunt-eslint": "18.1.1",
         "gpii-express": "git://github.com/GPII/gpii-express#218d42f2f27d4da92c3eb8b0149daa7a5a0faa88",
-        "gpii-pouchdb": "git://github.com/GPII/gpii-pouchdb#5e13a1b6556e70261b3dc204fde67743f1e3ebf1",
         "grunt": "1.0.1",
         "grunt-jsonlint": "1.0.4",
         "grunt-shell": "1.3.0",
